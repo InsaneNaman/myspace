@@ -7,11 +7,11 @@
     "has_nav": true
   },
   "footer": {
-    "content": "&copy; Stackbit-Exto. All rights reserved.",
+    "content": "Designed with ❤ by Naman Gupta",
     "links": [
       {
-        "text": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
+        "text": "",
+        "url": "",
         "new_window": true
       }
     ],
