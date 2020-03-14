@@ -2,7 +2,7 @@
   "links": [
     {
       "title": "Github",
-      "icon": "fa-heart",
+      "icon": "fa-github",
       "url": "https://github.com/InsaneNaman"
     },
     {
@@ -30,7 +30,7 @@
     },
     {
       "title": "Dev to",
-      "icon": "fa-heart",
+      "icon": "fa-external-link",
       "url": "https://dev.to/insanenaman"
     }
   ]
