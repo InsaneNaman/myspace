@@ -1,6 +1,11 @@
 {
   "links": [
     {
+      "title": "Dev.to",
+      "icon": "fa-terminal",
+      "url": "https://dev.to/insanenaman"
+    },
+    {
       "title": "Github",
       "icon": "fa-github",
       "url": "https://github.com/InsaneNaman"
