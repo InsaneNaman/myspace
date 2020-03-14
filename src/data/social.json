@@ -1,11 +1,6 @@
 {
   "links": [
     {
-      "title": "Dev.to",
-      "icon": "fa-bolt",
-      "url": "https://dev.to/insanenaman"
-    },
-    {
       "title": "Github",
       "icon": "fa-github",
       "url": "https://github.com/InsaneNaman"
@@ -32,6 +27,11 @@
       "title": "LinkedIn",
       "icon": "fa-linkedin",
       "url": "https://www.linkedin.com/in/InsaneNaman"
+    },
+    {
+      "title": "Dev to",
+      "icon": "fa-bolt",
+      "url": "https://dev.to/insanenaman"
     }
   ]
 }
