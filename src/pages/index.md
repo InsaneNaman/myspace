@@ -40,32 +40,16 @@ sections:
     content: Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis justo,
       sit amet condimentum lorem nibh vel quam. Duis consectetur lorem ipsum, non
       efficitur urna viverra et.
-- type: testimonialsblock
-  template: testimonialsblock
-  title: Testimonials
-  section_id: testimonials
-  component: TestimonialsBlock
-  subtitle: An optional subtitle of the section
-  testimonialslist:
-  - author: John Doe
-    avatar: images/john_doe.jpg
-    content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-      non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-  - author: Jane Roe
-    avatar: images/jane_roe.jpg
-    content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
-      interdum ligula vel, pretium diam. Integer commodo sem at dui sollicitudin,
-      vel posuere justo laoreet.
 - type: postsblock
   template: postsblock
   title: Latest from the Blog
   section_id: latest-posts
   component: PostsBlock
-  subtitle: An optional subtitle of the section
-  num_posts_displayed: 2
+  subtitle: I write on Web, Tech, Startups or May be something out of the box.
   actions:
   - label: View Blog
     url: blog/index.html
+  num_posts_displayed: 4
 - type: contactblock
   template: contactblock
   title: Contact Us
