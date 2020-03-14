@@ -52,10 +52,11 @@ sections:
   num_posts_displayed: 4
 - type: contactblock
   template: contactblock
-  title: Contact Us
+  title: Contact Me
   section_id: contact
   component: ContactBlock
-  subtitle: An optional subtitle of the section
+  subtitle: I check my inbox frequently. So, if you want to get in touch then do shoot
+    me an email at hello@insanenaman.com
 menus:
   main:
     title: Home
