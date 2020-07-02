@@ -14,8 +14,8 @@ Hi there, I am Naman Gupta, a Computer Science Engineer and Full Stack Web Devel
 
 > Those who are crazy enough to think they can change the world usually do 😎.- Steve Jobs
 
-and you just read my favourite quote. Hope you liked it. 
+annnndddd you just read my favourite quote. Hope you liked it. 
 
-If you still want to more about me then I would love to have a chat with you. Shoot me an Email at hello@insanenaman.com. 
+If you still want to know more about me then I would love to have a chat with you. Shoot me an Email at hello@insanenaman.com. 
 
 _Keep Creating Awesome Things !_
