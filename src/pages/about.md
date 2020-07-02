@@ -1,6 +1,7 @@
 ---
 title: About Me
-subtitle: I talk Tech,❤️ Startups, build Products, think Creative, create Cool Stuff.
+subtitle: "I talk Tech,\U0001F5A4 Startups, build Products, think Creative \U0001F914,
+  create Cool Stuff."
 img_path: images/about.jpg
 menus:
   main:
