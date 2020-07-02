@@ -23,7 +23,7 @@ sections:
   title: What I Do
   section_id: services
   component: ServicesBlock
-  subtitle: Apart from Blogging and Open Source
+  subtitle: Besides Blogging and Open Source
   serviceslist:
   - title: Google Developer Groups - New Delhi
     content: I am a [Co-Organiser](https://www.meetup.com/GDGNewDelhi/members/207036991/)
