@@ -9,4 +9,4 @@ subtitle: Mail me directly for early response
 img_path: ''
 
 ---
-Hi there! Thank you so much for your interest in working together. Please fill the contact form below or send me an email at example@example.com.
+Hi there! If you have any feedback or query then feel free to reach out. Please fill the contact form below or send me an 📧 at hello@insanenaman.com.
