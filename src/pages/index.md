@@ -10,7 +10,7 @@ sections:
     Tech, love Startups, build New Products, think Creative_
 - type: portfolioblock
   template: portfolioblock
-  title: My Porjects
+  title: My Projects
   section_id: latest-projects
   component: PortfolioBlock
   subtitle: 'Have a look at my creations. '
