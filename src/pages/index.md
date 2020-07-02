@@ -20,26 +20,18 @@ sections:
   view_all_url: portfolio/index.html
 - type: servicesblock
   template: servicesblock
-  title: What We Do
+  title: What I Do
   section_id: services
   component: ServicesBlock
-  subtitle: An optional subtitle of the section
+  subtitle: Apart from Blogging and Open Source
   serviceslist:
-  - title: Service Title
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl ligula,
-      cursus id molestie vel, maximus aliquet risus. Vivamus in nibh fringilla, fringilla
-      tortor at, pulvinar orci.
-  - title: Service Title
-    content: 'Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-      a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at, tincidunt
-      ut tellus. Vivamus rhoncus mattis varius. '
-  - title: Service title
-    content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-      non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-  - title: Service title
-    content: Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis justo,
-      sit amet condimentum lorem nibh vel quam. Duis consectetur lorem ipsum, non
-      efficitur urna viverra et.
+  - title: Google Developer Groups - New Delhi
+    content: I am a [Co-Organiser](https://www.meetup.com/GDGNewDelhi/members/207036991/)
+      at GDG New Delhi where one can find me Talking with Awesome Techies, Sharing
+      Ideas with them and Organising events with my team across Delhi-NCR.
+  - title: Sprinklr
+    content: 'I am a Product Engineer at [Sprinklr](https://sprinklr.com) where one
+      can find me playing around JavaScript all day. '
 - type: postsblock
   template: postsblock
   title: Latest from the Blog
