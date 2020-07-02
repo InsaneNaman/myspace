@@ -10,12 +10,12 @@ sections:
     Tech, love Startups, build New Products, think Creative_
 - type: portfolioblock
   template: portfolioblock
-  title: Recent Work
+  title: My Porjects
   section_id: latest-projects
   component: PortfolioBlock
-  subtitle: An optional subtitle of the section
+  subtitle: 'Have a look at my creations. '
   layout_style: mosaic
-  num_projects_displayed: 6
+  num_projects_displayed: 2
   view_all_text: View All
   view_all_url: portfolio/index.html
 - type: servicesblock
